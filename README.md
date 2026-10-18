@@ -9,7 +9,7 @@ Ce dépôt rassemble mon portfolio professionnel, mon parcours et la sélection 
 ## Domaines de compétence
 
 - Analyse et conception SI : MERISE, UML, BPMN et PowerAMC
-- Développement : HTML, CSS, JavaScript, React, Node.js, NestJS, API REST, Python et FastAPI
+- Développement : HTML5/CSS3, Tailwind CSS, JavaScript, React, Node.js, NestJS, API REST, Python et FastAPI
 - Data et BI : SQL, Microsoft Fabric, Power BI, Power Query et DAX
 - Systèmes et infrastructure : Windows Server, Linux, Réseaux, Virtualisation et Support IT
 
