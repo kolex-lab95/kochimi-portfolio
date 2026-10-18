@@ -1,0 +1,26 @@
+# Secrets et configuration locale
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Outils et dépendances
+node_modules/
+.netlify/
+.vscode/
+.idea/
+__pycache__/
+
+# Fichiers temporaires
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+~$*
