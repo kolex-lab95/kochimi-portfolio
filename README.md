@@ -10,6 +10,4 @@ Site statique en HTML, CSS et JavaScript, bilingue français/anglais et adapté 
 
 Ouvrir `index.html` dans un navigateur. Pour un hébergement statique, publier le dossier à la racine du site ; aucune compilation n’est nécessaire.
 
-Les images sont regroupées dans `assets/` et le rapport Power BI dans `documents/`.
-
 © 2026 Abari Kouley KOCHIMI LALA. Tous droits réservés.
